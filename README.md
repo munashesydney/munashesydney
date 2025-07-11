@@ -8,7 +8,7 @@ Personal Website: https://munashesydney.com
 
 🚀 What I’m Building
 
-🧪 (Browserize)[https://browserize.com]
+🧪 [Browserize](https://browserize.com)
 A self-scaling browser deployment API for AI browser automation:  
 - Serverless Chromium instances for scraping, automation, testing  
 - Built for AI agents and automation pipelines
