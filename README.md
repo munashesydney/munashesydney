@@ -11,7 +11,7 @@ A self-scaling browser deployment API for AI browser automation:
 - Serverless Chromium instances for scraping, automation, testing  
 - Built for AI agents and automation pipelines
 
-🧭 Browser0 – https://github.com/munashesydney/browser0  - OPEN SOURCE
+🧭 Browser0 – https://github.com/munashesydney/browser0
 An open-source AI browser automation platform built on Browserize:  
 - Lets agents browse, click, and extract data autonomously  
 - Ideal for building AI tools with browsing capabilities
@@ -46,7 +46,7 @@ AI tool to generate beautiful resumes:
 - Supports JSON-based editing and Markdown export  
 - AI-enhanced summarization and formatting
 
-📰 Blog0 – https://github.com/munashesydney/blog0  - OPEN SOURCE
+📰 Blog0 – https://github.com/munashesydney/blog0
 An open-source Docker-based blog platform for businesses:  
 - Instant deployment with themed templates  
 - Built for teams that want fast SEO-ready blogs with no fuss
