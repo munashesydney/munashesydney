@@ -18,7 +18,7 @@ An open-source AI browser automation platform built on Browserize:
 - Lets agents browse, click, and extract data autonomously  
 - Ideal for building AI tools with browsing capabilities
 
-🧠 AI Knowledge Desk – https://www.aiknowledgedesk.com  
+🧠 AI Knowledge Desk (WITH MOBILE) – https://www.aiknowledgedesk.com  
 A modern customer support suite powered by AI:  
 - Help Desk with ticketing, auto-responses, and agent collaboration  
 - Knowledge Base builder with AI-generated articles  
